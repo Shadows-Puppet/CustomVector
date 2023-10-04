@@ -164,7 +164,7 @@ int main()
 {
     myVector<int> poggers(5, 78);
     myVector<int> gaming = poggers;
-    //gaming = {1, 2, 3};
+    gaming = {1, 2, 3};
     myVector<int> yippie = {1, 2, 3};
     poggers.push_back(100);
     poggers.push_back(20);
